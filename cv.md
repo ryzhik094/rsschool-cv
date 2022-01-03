@@ -30,7 +30,7 @@ I don't know programming languages, so I couldn't provide code examples.
 
 * Togliatti Polytechnic University (construction)
 
-* RS School (at the moment, level 0)
+* RS School (at the moment, stage 0)
 
 ## Languages
 
