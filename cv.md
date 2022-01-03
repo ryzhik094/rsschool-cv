@@ -16,11 +16,11 @@ I am a wood construction engineer. This direction will not be in great demand in
 
 ## Skills
 
-* HTML
+* HTML (beginner)
 
-* CSS
+* CSS (beginner)
 
-* Git/Github
+* Git/Github (beginner)
 
 ## Code Example
 
